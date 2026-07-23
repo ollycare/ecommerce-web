@@ -9,7 +9,7 @@ const awsConfig = {
     }
   },
   API: {
-    baseUrl: 'YOUR_API_GATEWAY_URL' // e.g., https://xxxxxxxxxx.execute-api.eu-west-2.amazonaws.com
+    baseUrl: 'https://p7oig26hme.execute-api.eu-west-2.amazonaws.com' // e.g., https://xxxxxxxxxx.execute-api.eu-west-2.amazonaws.com
   }
 };
 
